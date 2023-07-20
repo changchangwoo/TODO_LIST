@@ -18,18 +18,22 @@
 }
 
 /* App */
-
-.Home_title {
+.Home_MonthDay {
   font-family: 'SUIT-Regular';
-  font-size: 40px;
-  margin-top: 30px;
+  font-size: 50px;
+  margin-top: 150px;
+  font-weight: lighter;
 }
 
 .Home_time {
   font-family: 'SUIT-Regular';
   font-size: 80px;
-  margin-top: 50px;
   font-weight: bolder;
+}
+
+.Home_textform {
+  width: 60vw;
+  height: 50vw;
 }
 
 /* Home */
